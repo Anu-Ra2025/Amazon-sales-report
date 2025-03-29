@@ -21,4 +21,23 @@ This project Data manipulation and analysis with the report Amazon on selling pr
 * Review_Title (is a brief, descriptive summary of a review provided by a user or customer. It gives an overview of the feedback or opinion expressed in the review and helps readers quickly understand its focus.)
 * Review_Content: (refers to the main body or detailed feedback provided by a user or customer in a review.)
 * Img_Link : (An Img_Link refers to the URL or web address that points to an image stored online. It enables the image to be displayed or accessed on websites, applications, or other platforms.)
-* Product_Link : (A Product Link refers to a URL or web address that directly takes users to a specific product's page on a website, such as an e-commerce platform or company site.)
+* Product_Link : (A Product Link refers to a URL or web address that directly takes users to a specific product's page on a website, such as an e-commerce platform or company site.
+
+
+  ## Data cleaning :-
+
+  no missing value
+  ![image](https://github.com/user-attachments/assets/911d54cd-cff8-4957-8512-f06df7e7464d)
+
+  2 missing value in rating_count column
+  ![image](https://github.com/user-attachments/assets/37fea41c-9f04-4ac8-90e6-3d5aa12d310c)
+
+  Update rating missing count as "0"
+![image](https://github.com/user-attachments/assets/f36592e2-bad2-4644-9a67-087608de2656)
+![image](https://github.com/user-attachments/assets/feaa2e65-b867-43cd-87ad-f509af5daf44)
+
+
+
+
+  
+
