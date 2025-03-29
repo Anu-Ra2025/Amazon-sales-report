@@ -35,6 +35,11 @@ This project Data manipulation and analysis with the report Amazon on selling pr
   Update rating missing count as "0"
 ![image](https://github.com/user-attachments/assets/f36592e2-bad2-4644-9a67-087608de2656)
 ![image](https://github.com/user-attachments/assets/feaa2e65-b867-43cd-87ad-f509af5daf44)
+Delete duplicate data and ultimate data structure is index: 1337 entries, 0 to 1464
+Data columns (total 16 columns)
+![image](https://github.com/user-attachments/assets/0def4388-da74-4fe1-ab97-4a3618abcee4)
+
+
 
 
 
