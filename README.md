@@ -3,6 +3,8 @@
 
 ## Data Overview
 This project Data manipulation and analysis with the report Amazon on selling products. The report incudes with 1465 data and 16 criteria where reflects the  products sells with how many is count with rating and reviews as well. 
+![image](https://github.com/user-attachments/assets/7a04eaeb-ea0d-452b-8417-ecb5f97867dd)
+
 
 * Product _ID : (It is a unique identifier assigned to a product for the purpose of tracking, identification, and differentiation.)
 * Product_Name : (the specific name or title given to a product to help identify it and make it recognizable to customers)
