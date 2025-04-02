@@ -32,12 +32,26 @@ This project Data manipulation and analysis with the report Amazon on selling pr
   2 missing value in rating_count column
   ![image](https://github.com/user-attachments/assets/37fea41c-9f04-4ac8-90e6-3d5aa12d310c)
 
-  Update rating missing count as "0"
-![image](https://github.com/user-attachments/assets/f36592e2-bad2-4644-9a67-087608de2656)
+  Update rating missing count as "0000"
+![image](https://github.com/user-attachments/assets/13652aa0-2108-4a54-8f03-775e56c69c53)
+
 ![image](https://github.com/user-attachments/assets/feaa2e65-b867-43cd-87ad-f509af5daf44)
 Delete duplicate data and ultimate data structure is index: 1337 entries, 0 to 1464
 Data columns (total 16 columns)
 ![image](https://github.com/user-attachments/assets/0def4388-da74-4fe1-ab97-4a3618abcee4)
+Restructure the dataset by separating rows to include individual entries for user ID, username, review ID, and review title. After the data has been cleaned, the dataset will consist of 7,693 entries.
+
+![image](https://github.com/user-attachments/assets/4af5e3fc-8e09-49d5-b8a3-e0415e957044)
+
+![image](https://github.com/user-attachments/assets/9bd0d1ba-6ea2-47f2-8621-dbbdb5d92687)
+
+
+![image](https://github.com/user-attachments/assets/2033aa44-fdfd-4a09-8c19-bc67ee77f346)
+
+
+
+
+
 
 
 
