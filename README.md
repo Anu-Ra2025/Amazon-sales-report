@@ -48,6 +48,20 @@ Restructure the dataset by separating rows to include individual entries for use
 
 ![image](https://github.com/user-attachments/assets/2033aa44-fdfd-4a09-8c19-bc67ee77f346)
 
+# Analysis Data structure
+* Rating
+
+![image](https://github.com/user-attachments/assets/cf92c5e7-4049-4cc3-b3bf-39b3ee390314)
+
+count: 7693 – This indicates there are 7,693 entries in the rating column.
+
+unique: 28 – There are 28 distinct or unique values in the rating column.
+
+top: 4.1 – The most frequently occurring value in the rating column is 4.1.
+
+freq: 1261 – The value 4.1 appears 1,261 times in the column.
+
+
 
 
 
