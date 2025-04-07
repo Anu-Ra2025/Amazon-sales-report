@@ -1,3 +1,32 @@
+#                      Amazon Sales Report
+
+This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
+## Features:-
+*	product_id
+*	product_name
+*	category	
+*	discounted_price	
+*	actual_price	
+*	discount_percentage	
+*	rating	
+*	rating_count	
+*	about_product	
+*	user_id	
+*	user_name	
+*	review_id	
+*	review_title	
+*	review_content	
+*	img_link	
+*	product_link
+
+## Import Libraries:-
+*	Pandas: - Data manipulation and analysis
+*  Numpy :- Numerical calculation
+*	Matplotlib :- Visualized the Data
+
+
+![image](https://github.com/user-attachments/assets/2b2c6311-c0b8-4461-b69c-0c00e5d3eff1)
+
 # Data manipulation and analysis
 
 ## Load a CSV file then creating a dataframe
@@ -33,6 +62,3 @@ Noiced taht the dataframe created with 1465 entries  with 16 columns.
 * Changing Data Types of Columns from object to float
 
 ![image](https://github.com/user-attachments/assets/5e1d5b05-6387-4873-8512-97fd5bbd278c)
-
-  
-
