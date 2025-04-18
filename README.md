@@ -62,3 +62,14 @@ Noiced taht the dataframe created with 1465 entries  with 16 columns.
 * Changing Data Types of Columns from object to float
 
 ![image](https://github.com/user-attachments/assets/5e1d5b05-6387-4873-8512-97fd5bbd278c)
+
+5. Replace the missing values in the rating_count column with '000'
+
+![image](https://github.com/user-attachments/assets/0a2e5a1d-101f-447a-af7e-8b479f9c198d)
+
+![image](https://github.com/user-attachments/assets/a60671d9-4d38-4fe3-acb8-097faa181dce)
+
+ 
+6. Identify duplicate entries within the DataFrame
+
+![image](https://github.com/user-attachments/assets/254bd2ff-c70d-4c93-aff1-af1acb822915)
