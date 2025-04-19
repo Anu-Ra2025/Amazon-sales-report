@@ -78,6 +78,15 @@ Noiced taht the dataframe created with 1465 entries  with 16 columns.
 
 Data farme changed into 1351 enties * 16 columns.
 
+7. Split user name, user ID, review ID and review_title.
+  ![image](https://github.com/user-attachments/assets/3b4031f3-24f1-42d4-b02f-f52f0cc922de)
+  ![image](https://github.com/user-attachments/assets/725e5307-a4f4-492d-b61f-5fd18ec36c3e)
+  ![image](https://github.com/user-attachments/assets/b5e9e536-865f-4653-9e0f-7bfc63d52008)
+data frame change into 7693 enties * 16 colomus 
+
+
+
+
 
 
 
