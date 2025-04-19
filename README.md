@@ -70,6 +70,9 @@ Noiced taht the dataframe created with 1465 entries  with 16 columns.
 ![image](https://github.com/user-attachments/assets/a60671d9-4d38-4fe3-acb8-097faa181dce)
 
  
-6. Identify duplicate entries within the DataFrame
+6. Drop duplicates product id  and Identify duplicate entries within the DataFrame
+
+![image](https://github.com/user-attachments/assets/8b166a96-958e-4331-b76b-699bde4c7a04)
+
 
 ![image](https://github.com/user-attachments/assets/254bd2ff-c70d-4c93-aff1-af1acb822915)
